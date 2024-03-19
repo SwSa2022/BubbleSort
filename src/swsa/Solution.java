@@ -31,8 +31,6 @@ public class Solution {
             }
         }
     }
-
-
     public static void print() {
         for (int number : numbers) {
             System.out.print(number + "\t");
